@@ -19,3 +19,5 @@
 1. Uprav CSS tak, aby na pozadí ve tmavém tématu byl obrázek měsíce `podklady/moon.jpg` místo výchozího slunce `podklady/sun.jpg`.
 
 1. Opět nezapomeň změny otestovat.
+
+[Náhled řešení](https://czechitas-podklady.cz/cviceni-media-preference/)
